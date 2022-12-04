@@ -1,0 +1,13 @@
+<section class="sect">
+<span class="h1">Education</span>
+<div class="div" *ngFor="let timeline of education" >
+
+    <img class="img" width="48" loading="lazy" height="48" src="{{timeline.img_src}}">
+    <h3 class="title">{{timeline.title}}</h3>
+    <h4 class="company">{{timeline.company}} : {{timeline.type}}</h4>
+    <h4 class="date"> {{timeline.startDate}} - {{timeline.endDate}}</h4>
+    <h4 class="add">{{timeline.add}}</h4>
+
+
+</div>
+</section>

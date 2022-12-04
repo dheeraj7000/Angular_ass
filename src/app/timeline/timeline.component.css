@@ -1,0 +1,49 @@
+body{
+    padding-left: 10%;
+}
+.img{
+    padding-top: 0%;
+    padding-right: 20%;
+
+    
+}
+
+.h1{
+    color: black;
+    font-size: 40px;
+    font-weight:bold;
+    line-height: 1.25;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.company{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.startDate{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.endDate{
+    font-size:medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.add{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sect{
+    padding-top: 5%;
+    padding-left: 0px;
+    border: 4px solid rgb(115, 112, 206);
+}
+
+.div{
+    border: 2px solid rgb(115, 123, 185);
+    background-color: rgb(182, 224, 228) ;
+}
